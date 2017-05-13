@@ -1,6 +1,6 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
+title: Bogdan Ostojic portfolio.
 email: alukobond93@gmail.com
 brand: Bogdan Ostojic
 headline: IT undergrad, programming enthusiast.
