@@ -1,4 +1,4 @@
-// Block: container-cv
+// Block: container-instagram
 
 .container-cv {
   margin-top: $spacer;
@@ -7,6 +7,10 @@
   background: $theme-color-main;
   color: white($theme-color-main, 50%);
 
+  // Element: container-contacts-phone
+  // Element: container-contacts-email
+
+  &-link {
     font-size: 1.8rem;
     padding: $spacer;
     border-radius: $border-radius;
