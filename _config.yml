@@ -1,8 +1,9 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: ./web-dist/images/profile-image.jpg
+title: Bogdan Ostojic portfolio.
 email: alukobond93@gmail.com
 brand: Bogdan Ostojic
+timezone: TIMEZONE
 headline: IT undergrad, programming enthusiast.
 description: > # this means to ignore newlines until "baseurl:"
   New Site
