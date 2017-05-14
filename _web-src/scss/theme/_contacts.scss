@@ -11,6 +11,7 @@
   // Element: container-contacts-email
 
   &-phone,
+  &-cv
   &-email {
     font-size: 1.8rem;
     padding: $spacer;
@@ -30,28 +31,6 @@
       }
     }
   }
- &-cv {
-    color:  $theme-color-main;
-    font-size: 1.8rem;
-    padding: $spacer;
-    border-radius: $border-radius;
-    background-color: $theme-color-main;
-    transition: background-color 0.3s ease;
-
-    @include media-breakpoint-up(md) {
-      font-size: 1.5rem;
-    }
-
-    &:hover {
-      background-color: $theme-color-main-contrast;
-
-      a {
-        color: darken($theme-color-main, 50%);
-      }
-    }
-  }
-
-
 
   & a {
     color: darken($theme-color-main, 50%);
